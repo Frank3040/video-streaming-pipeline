@@ -10,6 +10,26 @@ services:
       - 27017:27017
     volumes:
       - mongodata:/data/db
+    networks:
+      - cuyos-netowrk
+      
+  db:
+    image: postgres:16
+    environment:
+      - POSTGRES_USER=trupy_user
+      - POSTGRES_PASSWORD=trupy_password
+      - POSTGRES_DB=trupy_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      #- ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - cuyos-netowrk
+
 volumes:
   mongodata:
     driver: local
+  postgres_data:
+
+networks:
+  cuyos-network:
+    driver: bridge
