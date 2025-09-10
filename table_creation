@@ -1,0 +1,24 @@
+
+CREATE DATABASE video_streaming;
+
+ CREATE TABLE IF NOT EXISTS users (
+                user_id VARCHAR PRIMARY KEY,
+                age INT,
+                country VARCHAR(50),
+                subscription_type VARCHAR(20),
+                registration_date DATE,
+                total_watch_time_hours NUMERIC
+            );
+
+
+CREATE TABLE IF NOT EXISTS viewing_sessions (
+                session_id VARCHAR PRIMARY KEY,
+                user_id VARCHAR REFERENCES users(user_id),
+                content_id VARCHAR,
+                watch_date DATE,
+                watch_duration_minutes INT,
+                completion_percentage NUMERIC,
+                device_type VARCHAR(50),
+                quality_level VARCHAR(20)
+            )
+

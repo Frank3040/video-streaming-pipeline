@@ -1,0 +1,4555 @@
+{
+  "movies": [
+    {
+      "content_id": "M001",
+      "title": "Advanced World",
+      "genre": [
+        "Sci-Fi",
+        "Horror",
+        "Drama"
+      ],
+      "duration_minutes": 179,
+      "release_year": 2020,
+      "rating": 3.5,
+      "views_count": 66721,
+      "production_budget": 220088717
+    },
+    {
+      "content_id": "M002",
+      "title": "Neural Signal",
+      "genre": [
+        "Animation",
+        "Horror"
+      ],
+      "duration_minutes": 146,
+      "release_year": 2021,
+      "rating": 2.8,
+      "views_count": 11128,
+      "production_budget": 23593231
+    },
+    {
+      "content_id": "M003",
+      "title": "An Stream",
+      "genre": [
+        "Action"
+      ],
+      "duration_minutes": 102,
+      "release_year": 2023,
+      "rating": 1.9,
+      "views_count": 75949,
+      "production_budget": 83166461
+    },
+    {
+      "content_id": "M004",
+      "title": "Binary Journey",
+      "genre": [
+        "Thriller",
+        "Documentary"
+      ],
+      "duration_minutes": 146,
+      "release_year": 2022,
+      "rating": 3.0,
+      "views_count": 85958,
+      "production_budget": 46298444
+    },
+    {
+      "content_id": "M005",
+      "title": "Lost Data",
+      "genre": [
+        "Horror",
+        "Romance"
+      ],
+      "duration_minutes": 169,
+      "release_year": 2022,
+      "rating": 4.7,
+      "views_count": 56808,
+      "production_budget": 67293750
+    },
+    {
+      "content_id": "M006",
+      "title": "Ultimate Mystery",
+      "genre": [
+        "Action",
+        "Animation",
+        "Horror"
+      ],
+      "duration_minutes": 157,
+      "release_year": 2024,
+      "rating": 1.1,
+      "views_count": 148876,
+      "production_budget": 234348717
+    },
+    {
+      "content_id": "M007",
+      "title": "Code",
+      "genre": [
+        "Comedy",
+        "Romance"
+      ],
+      "duration_minutes": 136,
+      "release_year": 2022,
+      "rating": 3.1,
+      "views_count": 9228,
+      "production_budget": 35028167
+    },
+    {
+      "content_id": "M008",
+      "title": "Digital Protocol",
+      "genre": [
+        "Documentary",
+        "Romance"
+      ],
+      "duration_minutes": 155,
+      "release_year": 2023,
+      "rating": 3.7,
+      "views_count": 125068,
+      "production_budget": 49545701
+    },
+    {
+      "content_id": "M009",
+      "title": "Tale",
+      "genre": [
+        "Drama",
+        "Horror"
+      ],
+      "duration_minutes": 90,
+      "release_year": 2023,
+      "rating": 4.4,
+      "views_count": 37911,
+      "production_budget": 146895476
+    },
+    {
+      "content_id": "M010",
+      "title": "An Code 2",
+      "genre": [
+        "Comedy",
+        "Romance",
+        "Action"
+      ],
+      "duration_minutes": 174,
+      "release_year": 2021,
+      "rating": 3.5,
+      "views_count": 78005,
+      "production_budget": 224671521
+    },
+    {
+      "content_id": "M011",
+      "title": "Algorithm",
+      "genre": [
+        "Drama",
+        "Animation",
+        "Horror"
+      ],
+      "duration_minutes": 81,
+      "release_year": 2023,
+      "rating": 2.7,
+      "views_count": 92634,
+      "production_budget": 20512281
+    },
+    {
+      "content_id": "M012",
+      "title": "Quest 5",
+      "genre": [
+        "Comedy"
+      ],
+      "duration_minutes": 104,
+      "release_year": 2023,
+      "rating": 2.4,
+      "views_count": 59155,
+      "production_budget": 36408859
+    },
+    {
+      "content_id": "M013",
+      "title": "Mystery",
+      "genre": [
+        "Documentary",
+        "Drama"
+      ],
+      "duration_minutes": 178,
+      "release_year": 2020,
+      "rating": 1.6,
+      "views_count": 61328,
+      "production_budget": 16064411
+    },
+    {
+      "content_id": "M014",
+      "title": "Kingdom",
+      "genre": [
+        "Thriller",
+        "Action"
+      ],
+      "duration_minutes": 122,
+      "release_year": 2021,
+      "rating": 4.2,
+      "views_count": 138918,
+      "production_budget": 202395249
+    },
+    {
+      "content_id": "M015",
+      "title": "Quantum Code",
+      "genre": [
+        "Animation",
+        "Documentary",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 177,
+      "release_year": 2021,
+      "rating": 2.4,
+      "views_count": 13807,
+      "production_budget": 227198245
+    },
+    {
+      "content_id": "M016",
+      "title": "A Database",
+      "genre": [
+        "Drama",
+        "Documentary"
+      ],
+      "duration_minutes": 95,
+      "release_year": 2023,
+      "rating": 3.0,
+      "views_count": 81858,
+      "production_budget": 6729979
+    },
+    {
+      "content_id": "M017",
+      "title": "Adventure",
+      "genre": [
+        "Action",
+        "Documentary",
+        "Horror"
+      ],
+      "duration_minutes": 97,
+      "release_year": 2020,
+      "rating": 4.6,
+      "views_count": 132014,
+      "production_budget": 50839665
+    },
+    {
+      "content_id": "M018",
+      "title": "Mystery",
+      "genre": [
+        "Comedy",
+        "Action"
+      ],
+      "duration_minutes": 84,
+      "release_year": 2023,
+      "rating": 3.6,
+      "views_count": 81531,
+      "production_budget": 158431993
+    },
+    {
+      "content_id": "M019",
+      "title": "Final Stream",
+      "genre": [
+        "Action"
+      ],
+      "duration_minutes": 83,
+      "release_year": 2023,
+      "rating": 2.3,
+      "views_count": 144211,
+      "production_budget": 114952801
+    },
+    {
+      "content_id": "M020",
+      "title": "Quest",
+      "genre": [
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "duration_minutes": 108,
+      "release_year": 2022,
+      "rating": 3.1,
+      "views_count": 47873,
+      "production_budget": 250548961
+    },
+    {
+      "content_id": "M021",
+      "title": "Tale",
+      "genre": [
+        "Drama",
+        "Horror"
+      ],
+      "duration_minutes": 148,
+      "release_year": 2020,
+      "rating": 4.9,
+      "views_count": 168298,
+      "production_budget": 62478620
+    },
+    {
+      "content_id": "M022",
+      "title": "Quantum System",
+      "genre": [
+        "Horror"
+      ],
+      "duration_minutes": 147,
+      "release_year": 2023,
+      "rating": 4.7,
+      "views_count": 116580,
+      "production_budget": 73128204
+    },
+    {
+      "content_id": "M023",
+      "title": "Smart Story",
+      "genre": [
+        "Horror"
+      ],
+      "duration_minutes": 147,
+      "release_year": 2022,
+      "rating": 3.3,
+      "views_count": 36200,
+      "production_budget": 12509378
+    },
+    {
+      "content_id": "M024",
+      "title": "First Mystery",
+      "genre": [
+        "Horror"
+      ],
+      "duration_minutes": 159,
+      "release_year": 2020,
+      "rating": 4.2,
+      "views_count": 117924,
+      "production_budget": 146907831
+    },
+    {
+      "content_id": "M025",
+      "title": "An Protocol",
+      "genre": [
+        "Comedy"
+      ],
+      "duration_minutes": 162,
+      "release_year": 2020,
+      "rating": 4.0,
+      "views_count": 26519,
+      "production_budget": 49021276
+    },
+    {
+      "content_id": "M026",
+      "title": "Lost Kingdom",
+      "genre": [
+        "Documentary",
+        "Drama",
+        "Action"
+      ],
+      "duration_minutes": 163,
+      "release_year": 2024,
+      "rating": 2.6,
+      "views_count": 113230,
+      "production_budget": 90625130
+    },
+    {
+      "content_id": "M027",
+      "title": "Quantum Story",
+      "genre": [
+        "Thriller",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 128,
+      "release_year": 2023,
+      "rating": 1.2,
+      "views_count": 19816,
+      "production_budget": 150283990
+    },
+    {
+      "content_id": "M028",
+      "title": "Final Kingdom",
+      "genre": [
+        "Comedy",
+        "Horror",
+        "Drama"
+      ],
+      "duration_minutes": 175,
+      "release_year": 2023,
+      "rating": 1.7,
+      "views_count": 87291,
+      "production_budget": 8816404
+    },
+    {
+      "content_id": "M029",
+      "title": "System",
+      "genre": [
+        "Documentary"
+      ],
+      "duration_minutes": 123,
+      "release_year": 2023,
+      "rating": 1.8,
+      "views_count": 27793,
+      "production_budget": 30738350
+    },
+    {
+      "content_id": "M030",
+      "title": "Database 4",
+      "genre": [
+        "Drama",
+        "Action"
+      ],
+      "duration_minutes": 145,
+      "release_year": 2020,
+      "rating": 1.3,
+      "views_count": 98063,
+      "production_budget": 100987742
+    },
+    {
+      "content_id": "M031",
+      "title": "Empire",
+      "genre": [
+        "Action",
+        "Animation",
+        "Drama"
+      ],
+      "duration_minutes": 104,
+      "release_year": 2020,
+      "rating": 4.9,
+      "views_count": 114316,
+      "production_budget": 184475405
+    },
+    {
+      "content_id": "M032",
+      "title": "A Code",
+      "genre": [
+        "Thriller",
+        "Action"
+      ],
+      "duration_minutes": 133,
+      "release_year": 2024,
+      "rating": 3.4,
+      "views_count": 83014,
+      "production_budget": 283617949
+    },
+    {
+      "content_id": "M033",
+      "title": "Dark Stream",
+      "genre": [
+        "Action",
+        "Animation"
+      ],
+      "duration_minutes": 119,
+      "release_year": 2023,
+      "rating": 2.9,
+      "views_count": 54865,
+      "production_budget": 193790052
+    },
+    {
+      "content_id": "M034",
+      "title": "Stream",
+      "genre": [
+        "Romance",
+        "Sci-Fi",
+        "Action"
+      ],
+      "duration_minutes": 151,
+      "release_year": 2020,
+      "rating": 4.9,
+      "views_count": 41348,
+      "production_budget": 122112109
+    },
+    {
+      "content_id": "M035",
+      "title": "Lost System 5",
+      "genre": [
+        "Thriller",
+        "Romance"
+      ],
+      "duration_minutes": 112,
+      "release_year": 2021,
+      "rating": 1.8,
+      "views_count": 64414,
+      "production_budget": 2127388
+    },
+    {
+      "content_id": "M036",
+      "title": "Quest",
+      "genre": [
+        "Romance",
+        "Animation"
+      ],
+      "duration_minutes": 100,
+      "release_year": 2020,
+      "rating": 2.9,
+      "views_count": 90335,
+      "production_budget": 12670028
+    },
+    {
+      "content_id": "M037",
+      "title": "Quest",
+      "genre": [
+        "Animation",
+        "Comedy",
+        "Documentary"
+      ],
+      "duration_minutes": 90,
+      "release_year": 2022,
+      "rating": 1.2,
+      "views_count": 13250,
+      "production_budget": 33987762
+    },
+    {
+      "content_id": "M038",
+      "title": "Data",
+      "genre": [
+        "Animation",
+        "Documentary"
+      ],
+      "duration_minutes": 161,
+      "release_year": 2021,
+      "rating": 3.6,
+      "views_count": 47672,
+      "production_budget": 15316213
+    },
+    {
+      "content_id": "M039",
+      "title": "Lost Cloud",
+      "genre": [
+        "Horror",
+        "Drama",
+        "Action"
+      ],
+      "duration_minutes": 103,
+      "release_year": 2020,
+      "rating": 2.8,
+      "views_count": 48310,
+      "production_budget": 202148811
+    },
+    {
+      "content_id": "M040",
+      "title": "Quest",
+      "genre": [
+        "Comedy",
+        "Documentary",
+        "Drama"
+      ],
+      "duration_minutes": 171,
+      "release_year": 2022,
+      "rating": 2.2,
+      "views_count": 52925,
+      "production_budget": 1600669
+    },
+    {
+      "content_id": "M041",
+      "title": "Infinite Story",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "duration_minutes": 117,
+      "release_year": 2021,
+      "rating": 4.2,
+      "views_count": 129104,
+      "production_budget": 186923029
+    },
+    {
+      "content_id": "M042",
+      "title": "Advanced System 2",
+      "genre": [
+        "Documentary"
+      ],
+      "duration_minutes": 163,
+      "release_year": 2020,
+      "rating": 3.3,
+      "views_count": 44583,
+      "production_budget": 42856949
+    },
+    {
+      "content_id": "M043",
+      "title": "Hidden Empire",
+      "genre": [
+        "Horror"
+      ],
+      "duration_minutes": 134,
+      "release_year": 2024,
+      "rating": 4.1,
+      "views_count": 290064,
+      "production_budget": 128140036
+    },
+    {
+      "content_id": "M044",
+      "title": "Cyber Cloud 4",
+      "genre": [
+        "Animation",
+        "Thriller"
+      ],
+      "duration_minutes": 134,
+      "release_year": 2024,
+      "rating": 3.3,
+      "views_count": 8992,
+      "production_budget": 8120314
+    },
+    {
+      "content_id": "M045",
+      "title": "First Database",
+      "genre": [
+        "Animation",
+        "Action"
+      ],
+      "duration_minutes": 123,
+      "release_year": 2023,
+      "rating": 3.1,
+      "views_count": 115282,
+      "production_budget": 182644208
+    },
+    {
+      "content_id": "M046",
+      "title": "Binary Signal",
+      "genre": [
+        "Animation",
+        "Documentary",
+        "Thriller"
+      ],
+      "duration_minutes": 147,
+      "release_year": 2023,
+      "rating": 1.9,
+      "views_count": 18247,
+      "production_budget": 24000248
+    },
+    {
+      "content_id": "M047",
+      "title": "Story",
+      "genre": [
+        "Drama"
+      ],
+      "duration_minutes": 120,
+      "release_year": 2023,
+      "rating": 3.3,
+      "views_count": 5974,
+      "production_budget": 18448764
+    },
+    {
+      "content_id": "M048",
+      "title": "Tale",
+      "genre": [
+        "Horror",
+        "Romance",
+        "Documentary"
+      ],
+      "duration_minutes": 104,
+      "release_year": 2021,
+      "rating": 4.9,
+      "views_count": 178486,
+      "production_budget": 59289648
+    },
+    {
+      "content_id": "M049",
+      "title": "Neural Cloud 2",
+      "genre": [
+        "Drama",
+        "Sci-Fi",
+        "Action"
+      ],
+      "duration_minutes": 126,
+      "release_year": 2020,
+      "rating": 3.7,
+      "views_count": 33051,
+      "production_budget": 135871052
+    },
+    {
+      "content_id": "M050",
+      "title": "Infinite Protocol",
+      "genre": [
+        "Thriller",
+        "Documentary"
+      ],
+      "duration_minutes": 96,
+      "release_year": 2021,
+      "rating": 2.0,
+      "views_count": 53173,
+      "production_budget": 39370044
+    },
+    {
+      "content_id": "M051",
+      "title": "A Algorithm",
+      "genre": [
+        "Animation"
+      ],
+      "duration_minutes": 155,
+      "release_year": 2022,
+      "rating": 4.8,
+      "views_count": 136410,
+      "production_budget": 106311259
+    },
+    {
+      "content_id": "M052",
+      "title": "Adventure",
+      "genre": [
+        "Horror",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 120,
+      "release_year": 2021,
+      "rating": 3.9,
+      "views_count": 94063,
+      "production_budget": 193008798
+    },
+    {
+      "content_id": "M053",
+      "title": "Infinite Empire",
+      "genre": [
+        "Action"
+      ],
+      "duration_minutes": 162,
+      "release_year": 2022,
+      "rating": 1.9,
+      "views_count": 50863,
+      "production_budget": 296179703
+    },
+    {
+      "content_id": "M054",
+      "title": "Binary Stream",
+      "genre": [
+        "Action",
+        "Animation",
+        "Documentary"
+      ],
+      "duration_minutes": 98,
+      "release_year": 2021,
+      "rating": 4.6,
+      "views_count": 17832,
+      "production_budget": 122289319
+    },
+    {
+      "content_id": "M055",
+      "title": "Infinite Adventure",
+      "genre": [
+        "Thriller"
+      ],
+      "duration_minutes": 142,
+      "release_year": 2023,
+      "rating": 3.6,
+      "views_count": 121651,
+      "production_budget": 37909361
+    },
+    {
+      "content_id": "M056",
+      "title": "Binary Journey",
+      "genre": [
+        "Thriller",
+        "Action"
+      ],
+      "duration_minutes": 88,
+      "release_year": 2023,
+      "rating": 3.6,
+      "views_count": 105627,
+      "production_budget": 140493022
+    },
+    {
+      "content_id": "M057",
+      "title": "Journey",
+      "genre": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 149,
+      "release_year": 2022,
+      "rating": 1.9,
+      "views_count": 38409,
+      "production_budget": 213938522
+    },
+    {
+      "content_id": "M058",
+      "title": "Last Quest",
+      "genre": [
+        "Documentary",
+        "Animation",
+        "Romance"
+      ],
+      "duration_minutes": 173,
+      "release_year": 2020,
+      "rating": 3.6,
+      "views_count": 53146,
+      "production_budget": 20440772
+    },
+    {
+      "content_id": "M059",
+      "title": "System",
+      "genre": [
+        "Sci-Fi",
+        "Thriller",
+        "Drama"
+      ],
+      "duration_minutes": 146,
+      "release_year": 2020,
+      "rating": 1.5,
+      "views_count": 63578,
+      "production_budget": 80650718
+    },
+    {
+      "content_id": "M060",
+      "title": "Dark Kingdom",
+      "genre": [
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 122,
+      "release_year": 2020,
+      "rating": 4.9,
+      "views_count": 196906,
+      "production_budget": 107714280
+    },
+    {
+      "content_id": "M061",
+      "title": "An Cloud",
+      "genre": [
+        "Drama",
+        "Comedy",
+        "Action"
+      ],
+      "duration_minutes": 99,
+      "release_year": 2022,
+      "rating": 4.6,
+      "views_count": 58038,
+      "production_budget": 181262622
+    },
+    {
+      "content_id": "M062",
+      "title": "Secret Empire",
+      "genre": [
+        "Horror"
+      ],
+      "duration_minutes": 136,
+      "release_year": 2024,
+      "rating": 1.1,
+      "views_count": 113496,
+      "production_budget": 45559979
+    },
+    {
+      "content_id": "M063",
+      "title": "Neural Cloud",
+      "genre": [
+        "Sci-Fi",
+        "Drama"
+      ],
+      "duration_minutes": 104,
+      "release_year": 2024,
+      "rating": 4.5,
+      "views_count": 241308,
+      "production_budget": 52788131
+    },
+    {
+      "content_id": "M064",
+      "title": "Virtual Adventure",
+      "genre": [
+        "Drama",
+        "Action"
+      ],
+      "duration_minutes": 113,
+      "release_year": 2024,
+      "rating": 4.4,
+      "views_count": 99105,
+      "production_budget": 99191442
+    },
+    {
+      "content_id": "M065",
+      "title": "Final Story",
+      "genre": [
+        "Documentary",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 102,
+      "release_year": 2024,
+      "rating": 1.9,
+      "views_count": 107506,
+      "production_budget": 92334091
+    },
+    {
+      "content_id": "M066",
+      "title": "Last World",
+      "genre": [
+        "Animation"
+      ],
+      "duration_minutes": 134,
+      "release_year": 2024,
+      "rating": 4.1,
+      "views_count": 139206,
+      "production_budget": 232940727
+    },
+    {
+      "content_id": "M067",
+      "title": "Smart World",
+      "genre": [
+        "Documentary",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 126,
+      "release_year": 2023,
+      "rating": 4.0,
+      "views_count": 125397,
+      "production_budget": 233435578
+    },
+    {
+      "content_id": "M068",
+      "title": "Protocol",
+      "genre": [
+        "Comedy",
+        "Thriller",
+        "Horror"
+      ],
+      "duration_minutes": 169,
+      "release_year": 2024,
+      "rating": 4.2,
+      "views_count": 110097,
+      "production_budget": 100149438
+    },
+    {
+      "content_id": "M069",
+      "title": "Last World",
+      "genre": [
+        "Horror"
+      ],
+      "duration_minutes": 119,
+      "release_year": 2022,
+      "rating": 4.0,
+      "views_count": 12355,
+      "production_budget": 39301506
+    },
+    {
+      "content_id": "M070",
+      "title": "Lost Adventure",
+      "genre": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 171,
+      "release_year": 2020,
+      "rating": 1.7,
+      "views_count": 5512,
+      "production_budget": 218689270
+    },
+    {
+      "content_id": "M071",
+      "title": "Cyber Tale",
+      "genre": [
+        "Sci-Fi",
+        "Drama",
+        "Comedy"
+      ],
+      "duration_minutes": 102,
+      "release_year": 2023,
+      "rating": 4.3,
+      "views_count": 292824,
+      "production_budget": 139504878
+    },
+    {
+      "content_id": "M072",
+      "title": "Secret Signal",
+      "genre": [
+        "Romance"
+      ],
+      "duration_minutes": 125,
+      "release_year": 2022,
+      "rating": 1.6,
+      "views_count": 60180,
+      "production_budget": 8844926
+    },
+    {
+      "content_id": "M073",
+      "title": "System",
+      "genre": [
+        "Documentary",
+        "Animation",
+        "Action"
+      ],
+      "duration_minutes": 141,
+      "release_year": 2021,
+      "rating": 1.3,
+      "views_count": 12675,
+      "production_budget": 167251523
+    },
+    {
+      "content_id": "M074",
+      "title": "Digital Database",
+      "genre": [
+        "Comedy"
+      ],
+      "duration_minutes": 146,
+      "release_year": 2022,
+      "rating": 3.2,
+      "views_count": 8998,
+      "production_budget": 29227591
+    },
+    {
+      "content_id": "M075",
+      "title": "Neural Journey",
+      "genre": [
+        "Sci-Fi",
+        "Thriller",
+        "Romance"
+      ],
+      "duration_minutes": 125,
+      "release_year": 2020,
+      "rating": 4.2,
+      "views_count": 84468,
+      "production_budget": 296040480
+    },
+    {
+      "content_id": "M076",
+      "title": "The Journey",
+      "genre": [
+        "Thriller",
+        "Documentary",
+        "Animation"
+      ],
+      "duration_minutes": 166,
+      "release_year": 2020,
+      "rating": 2.4,
+      "views_count": 78189,
+      "production_budget": 27396354
+    },
+    {
+      "content_id": "M077",
+      "title": "Signal",
+      "genre": [
+        "Romance"
+      ],
+      "duration_minutes": 101,
+      "release_year": 2021,
+      "rating": 4.5,
+      "views_count": 97638,
+      "production_budget": 203590741
+    },
+    {
+      "content_id": "M078",
+      "title": "Algorithm",
+      "genre": [
+        "Comedy",
+        "Romance",
+        "Documentary"
+      ],
+      "duration_minutes": 155,
+      "release_year": 2024,
+      "rating": 1.6,
+      "views_count": 28957,
+      "production_budget": 13524987
+    },
+    {
+      "content_id": "M079",
+      "title": "Secret Algorithm",
+      "genre": [
+        "Thriller"
+      ],
+      "duration_minutes": 156,
+      "release_year": 2022,
+      "rating": 3.8,
+      "views_count": 44993,
+      "production_budget": 46138210
+    },
+    {
+      "content_id": "M080",
+      "title": "Digital Empire",
+      "genre": [
+        "Comedy"
+      ],
+      "duration_minutes": 99,
+      "release_year": 2022,
+      "rating": 3.5,
+      "views_count": 51624,
+      "production_budget": 49787105
+    },
+    {
+      "content_id": "M081",
+      "title": "A Empire",
+      "genre": [
+        "Thriller"
+      ],
+      "duration_minutes": 158,
+      "release_year": 2023,
+      "rating": 3.2,
+      "views_count": 20857,
+      "production_budget": 21843745
+    },
+    {
+      "content_id": "M082",
+      "title": "Protocol",
+      "genre": [
+        "Romance",
+        "Action",
+        "Comedy"
+      ],
+      "duration_minutes": 135,
+      "release_year": 2023,
+      "rating": 4.0,
+      "views_count": 106275,
+      "production_budget": 182661326
+    },
+    {
+      "content_id": "M083",
+      "title": "Final World",
+      "genre": [
+        "Horror"
+      ],
+      "duration_minutes": 116,
+      "release_year": 2023,
+      "rating": 1.1,
+      "views_count": 147540,
+      "production_budget": 9691644
+    },
+    {
+      "content_id": "M084",
+      "title": "The Matrix",
+      "genre": [
+        "Drama",
+        "Comedy"
+      ],
+      "duration_minutes": 141,
+      "release_year": 2021,
+      "rating": 2.2,
+      "views_count": 40998,
+      "production_budget": 49636072
+    },
+    {
+      "content_id": "M085",
+      "title": "Lost Adventure",
+      "genre": [
+        "Action",
+        "Romance"
+      ],
+      "duration_minutes": 150,
+      "release_year": 2022,
+      "rating": 4.4,
+      "views_count": 185972,
+      "production_budget": 272623780
+    },
+    {
+      "content_id": "M086",
+      "title": "Data",
+      "genre": [
+        "Thriller",
+        "Horror",
+        "Animation"
+      ],
+      "duration_minutes": 130,
+      "release_year": 2021,
+      "rating": 2.3,
+      "views_count": 41342,
+      "production_budget": 25908762
+    },
+    {
+      "content_id": "M087",
+      "title": "A Data",
+      "genre": [
+        "Action",
+        "Romance",
+        "Drama"
+      ],
+      "duration_minutes": 139,
+      "release_year": 2020,
+      "rating": 2.7,
+      "views_count": 41100,
+      "production_budget": 251619945
+    },
+    {
+      "content_id": "M088",
+      "title": "Data",
+      "genre": [
+        "Romance"
+      ],
+      "duration_minutes": 146,
+      "release_year": 2023,
+      "rating": 1.2,
+      "views_count": 2689,
+      "production_budget": 41797064
+    },
+    {
+      "content_id": "M089",
+      "title": "Hidden Data",
+      "genre": [
+        "Horror",
+        "Sci-Fi",
+        "Romance"
+      ],
+      "duration_minutes": 107,
+      "release_year": 2021,
+      "rating": 3.0,
+      "views_count": 48176,
+      "production_budget": 283777035
+    },
+    {
+      "content_id": "M090",
+      "title": "Network",
+      "genre": [
+        "Comedy",
+        "Animation"
+      ],
+      "duration_minutes": 86,
+      "release_year": 2020,
+      "rating": 2.6,
+      "views_count": 38966,
+      "production_budget": 41347239
+    },
+    {
+      "content_id": "M091",
+      "title": "Empire",
+      "genre": [
+        "Animation",
+        "Romance"
+      ],
+      "duration_minutes": 122,
+      "release_year": 2022,
+      "rating": 2.5,
+      "views_count": 48892,
+      "production_budget": 10832696
+    },
+    {
+      "content_id": "M092",
+      "title": "Infinite Code",
+      "genre": [
+        "Comedy",
+        "Horror"
+      ],
+      "duration_minutes": 145,
+      "release_year": 2021,
+      "rating": 2.1,
+      "views_count": 56151,
+      "production_budget": 16160068
+    },
+    {
+      "content_id": "M093",
+      "title": "Digital Code",
+      "genre": [
+        "Horror",
+        "Drama"
+      ],
+      "duration_minutes": 87,
+      "release_year": 2024,
+      "rating": 3.8,
+      "views_count": 97083,
+      "production_budget": 9974518
+    },
+    {
+      "content_id": "M094",
+      "title": "Matrix",
+      "genre": [
+        "Action",
+        "Animation"
+      ],
+      "duration_minutes": 173,
+      "release_year": 2020,
+      "rating": 1.2,
+      "views_count": 48295,
+      "production_budget": 250209902
+    },
+    {
+      "content_id": "M095",
+      "title": "Digital Tale",
+      "genre": [
+        "Documentary",
+        "Comedy",
+        "Romance"
+      ],
+      "duration_minutes": 131,
+      "release_year": 2024,
+      "rating": 3.8,
+      "views_count": 104163,
+      "production_budget": 27080387
+    },
+    {
+      "content_id": "M096",
+      "title": "Final Mystery 5",
+      "genre": [
+        "Romance",
+        "Comedy",
+        "Action"
+      ],
+      "duration_minutes": 85,
+      "release_year": 2022,
+      "rating": 2.0,
+      "views_count": 80921,
+      "production_budget": 134466599
+    },
+    {
+      "content_id": "M097",
+      "title": "Dark Stream",
+      "genre": [
+        "Horror",
+        "Comedy"
+      ],
+      "duration_minutes": 131,
+      "release_year": 2020,
+      "rating": 4.9,
+      "views_count": 152164,
+      "production_budget": 65465290
+    },
+    {
+      "content_id": "M098",
+      "title": "Digital Data",
+      "genre": [
+        "Horror",
+        "Thriller",
+        "Romance"
+      ],
+      "duration_minutes": 142,
+      "release_year": 2022,
+      "rating": 2.6,
+      "views_count": 13908,
+      "production_budget": 41421645
+    },
+    {
+      "content_id": "M099",
+      "title": "Algorithm",
+      "genre": [
+        "Animation",
+        "Romance",
+        "Action"
+      ],
+      "duration_minutes": 159,
+      "release_year": 2022,
+      "rating": 2.3,
+      "views_count": 53649,
+      "production_budget": 195742202
+    },
+    {
+      "content_id": "M100",
+      "title": "Mystery",
+      "genre": [
+        "Animation",
+        "Drama",
+        "Comedy"
+      ],
+      "duration_minutes": 145,
+      "release_year": 2022,
+      "rating": 2.5,
+      "views_count": 85093,
+      "production_budget": 1818805
+    },
+    {
+      "content_id": "M101",
+      "title": "System",
+      "genre": [
+        "Horror",
+        "Sci-Fi",
+        "Drama"
+      ],
+      "duration_minutes": 152,
+      "release_year": 2024,
+      "rating": 2.9,
+      "views_count": 27931,
+      "production_budget": 122138266
+    },
+    {
+      "content_id": "M102",
+      "title": "A Algorithm",
+      "genre": [
+        "Drama",
+        "Action"
+      ],
+      "duration_minutes": 147,
+      "release_year": 2022,
+      "rating": 2.8,
+      "views_count": 26612,
+      "production_budget": 81782662
+    },
+    {
+      "content_id": "M103",
+      "title": "Quantum Tale",
+      "genre": [
+        "Sci-Fi",
+        "Documentary",
+        "Romance"
+      ],
+      "duration_minutes": 156,
+      "release_year": 2023,
+      "rating": 4.6,
+      "views_count": 138177,
+      "production_budget": 287247899
+    },
+    {
+      "content_id": "M104",
+      "title": "Binary World",
+      "genre": [
+        "Sci-Fi",
+        "Horror",
+        "Animation"
+      ],
+      "duration_minutes": 109,
+      "release_year": 2024,
+      "rating": 3.3,
+      "views_count": 38659,
+      "production_budget": 270713263
+    },
+    {
+      "content_id": "M105",
+      "title": "Binary Tale",
+      "genre": [
+        "Horror",
+        "Animation"
+      ],
+      "duration_minutes": 104,
+      "release_year": 2021,
+      "rating": 2.3,
+      "views_count": 50064,
+      "production_budget": 16851330
+    },
+    {
+      "content_id": "M106",
+      "title": "Lost Signal",
+      "genre": [
+        "Thriller",
+        "Horror"
+      ],
+      "duration_minutes": 94,
+      "release_year": 2023,
+      "rating": 1.7,
+      "views_count": 40879,
+      "production_budget": 12650123
+    },
+    {
+      "content_id": "M107",
+      "title": "Lost Mystery",
+      "genre": [
+        "Action",
+        "Horror"
+      ],
+      "duration_minutes": 91,
+      "release_year": 2023,
+      "rating": 1.9,
+      "views_count": 110017,
+      "production_budget": 237678250
+    },
+    {
+      "content_id": "M108",
+      "title": "System",
+      "genre": [
+        "Sci-Fi",
+        "Horror"
+      ],
+      "duration_minutes": 114,
+      "release_year": 2020,
+      "rating": 1.8,
+      "views_count": 6930,
+      "production_budget": 261117605
+    },
+    {
+      "content_id": "M109",
+      "title": "Dark System",
+      "genre": [
+        "Thriller",
+        "Romance"
+      ],
+      "duration_minutes": 143,
+      "release_year": 2022,
+      "rating": 3.3,
+      "views_count": 82962,
+      "production_budget": 27286533
+    },
+    {
+      "content_id": "M110",
+      "title": "Matrix",
+      "genre": [
+        "Horror"
+      ],
+      "duration_minutes": 127,
+      "release_year": 2024,
+      "rating": 1.3,
+      "views_count": 122971,
+      "production_budget": 15437541
+    },
+    {
+      "content_id": "M111",
+      "title": "Advanced Journey",
+      "genre": [
+        "Comedy",
+        "Horror",
+        "Romance"
+      ],
+      "duration_minutes": 97,
+      "release_year": 2024,
+      "rating": 3.6,
+      "views_count": 105915,
+      "production_budget": 34267191
+    },
+    {
+      "content_id": "M112",
+      "title": "A Code",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "duration_minutes": 167,
+      "release_year": 2023,
+      "rating": 4.6,
+      "views_count": 282006,
+      "production_budget": 112473878
+    },
+    {
+      "content_id": "M113",
+      "title": "Data",
+      "genre": [
+        "Romance",
+        "Horror",
+        "Documentary"
+      ],
+      "duration_minutes": 174,
+      "release_year": 2024,
+      "rating": 2.6,
+      "views_count": 3049,
+      "production_budget": 26232769
+    },
+    {
+      "content_id": "M114",
+      "title": "Digital World",
+      "genre": [
+        "Horror",
+        "Action",
+        "Animation"
+      ],
+      "duration_minutes": 154,
+      "release_year": 2023,
+      "rating": 2.1,
+      "views_count": 142473,
+      "production_budget": 296850537
+    },
+    {
+      "content_id": "M115",
+      "title": "Tale 3",
+      "genre": [
+        "Horror",
+        "Documentary"
+      ],
+      "duration_minutes": 83,
+      "release_year": 2021,
+      "rating": 2.7,
+      "views_count": 68034,
+      "production_budget": 6951330
+    },
+    {
+      "content_id": "M116",
+      "title": "Lost Journey",
+      "genre": [
+        "Animation"
+      ],
+      "duration_minutes": 136,
+      "release_year": 2023,
+      "rating": 3.3,
+      "views_count": 127759,
+      "production_budget": 10434415
+    },
+    {
+      "content_id": "M117",
+      "title": "Database",
+      "genre": [
+        "Animation"
+      ],
+      "duration_minutes": 170,
+      "release_year": 2021,
+      "rating": 2.2,
+      "views_count": 63049,
+      "production_budget": 37551639
+    },
+    {
+      "content_id": "M118",
+      "title": "Hidden Protocol",
+      "genre": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 123,
+      "release_year": 2022,
+      "rating": 4.7,
+      "views_count": 63208,
+      "production_budget": 89066888
+    },
+    {
+      "content_id": "M119",
+      "title": "Smart Story",
+      "genre": [
+        "Thriller",
+        "Animation"
+      ],
+      "duration_minutes": 138,
+      "release_year": 2021,
+      "rating": 4.1,
+      "views_count": 173166,
+      "production_budget": 142440797
+    },
+    {
+      "content_id": "M120",
+      "title": "Journey",
+      "genre": [
+        "Animation"
+      ],
+      "duration_minutes": 104,
+      "release_year": 2024,
+      "rating": 4.8,
+      "views_count": 120498,
+      "production_budget": 255815540
+    },
+    {
+      "content_id": "M121",
+      "title": "Cyber Story",
+      "genre": [
+        "Action",
+        "Comedy",
+        "Horror"
+      ],
+      "duration_minutes": 153,
+      "release_year": 2024,
+      "rating": 1.4,
+      "views_count": 69015,
+      "production_budget": 174934483
+    },
+    {
+      "content_id": "M122",
+      "title": "Tale",
+      "genre": [
+        "Drama",
+        "Animation"
+      ],
+      "duration_minutes": 157,
+      "release_year": 2021,
+      "rating": 1.4,
+      "views_count": 6716,
+      "production_budget": 4637872
+    },
+    {
+      "content_id": "M123",
+      "title": "A Algorithm",
+      "genre": [
+        "Drama"
+      ],
+      "duration_minutes": 118,
+      "release_year": 2020,
+      "rating": 3.1,
+      "views_count": 12676,
+      "production_budget": 46274627
+    },
+    {
+      "content_id": "M124",
+      "title": "The System",
+      "genre": [
+        "Drama",
+        "Comedy"
+      ],
+      "duration_minutes": 151,
+      "release_year": 2022,
+      "rating": 3.4,
+      "views_count": 76099,
+      "production_budget": 46362993
+    },
+    {
+      "content_id": "M125",
+      "title": "Database 4",
+      "genre": [
+        "Sci-Fi",
+        "Romance",
+        "Drama"
+      ],
+      "duration_minutes": 164,
+      "release_year": 2023,
+      "rating": 3.3,
+      "views_count": 35452,
+      "production_budget": 279552120
+    },
+    {
+      "content_id": "M126",
+      "title": "Database",
+      "genre": [
+        "Romance",
+        "Sci-Fi",
+        "Drama"
+      ],
+      "duration_minutes": 112,
+      "release_year": 2020,
+      "rating": 4.9,
+      "views_count": 64854,
+      "production_budget": 163474360
+    },
+    {
+      "content_id": "M127",
+      "title": "Quantum Code",
+      "genre": [
+        "Romance"
+      ],
+      "duration_minutes": 179,
+      "release_year": 2023,
+      "rating": 3.9,
+      "views_count": 16005,
+      "production_budget": 16053983
+    },
+    {
+      "content_id": "M128",
+      "title": "Empire",
+      "genre": [
+        "Comedy"
+      ],
+      "duration_minutes": 142,
+      "release_year": 2024,
+      "rating": 3.7,
+      "views_count": 36846,
+      "production_budget": 15349432
+    },
+    {
+      "content_id": "M129",
+      "title": "Binary Quest 3",
+      "genre": [
+        "Horror",
+        "Romance",
+        "Action"
+      ],
+      "duration_minutes": 109,
+      "release_year": 2023,
+      "rating": 3.7,
+      "views_count": 26040,
+      "production_budget": 216148457
+    },
+    {
+      "content_id": "M130",
+      "title": "Algorithm",
+      "genre": [
+        "Drama"
+      ],
+      "duration_minutes": 137,
+      "release_year": 2021,
+      "rating": 2.3,
+      "views_count": 37032,
+      "production_budget": 1748841
+    },
+    {
+      "content_id": "M131",
+      "title": "Digital Database",
+      "genre": [
+        "Romance"
+      ],
+      "duration_minutes": 177,
+      "release_year": 2023,
+      "rating": 1.8,
+      "views_count": 148807,
+      "production_budget": 23269808
+    },
+    {
+      "content_id": "M132",
+      "title": "Smart Signal",
+      "genre": [
+        "Thriller",
+        "Comedy",
+        "Horror"
+      ],
+      "duration_minutes": 106,
+      "release_year": 2023,
+      "rating": 4.4,
+      "views_count": 279282,
+      "production_budget": 270095317
+    },
+    {
+      "content_id": "M133",
+      "title": "The Matrix",
+      "genre": [
+        "Action",
+        "Animation",
+        "Horror"
+      ],
+      "duration_minutes": 123,
+      "release_year": 2023,
+      "rating": 4.7,
+      "views_count": 258093,
+      "production_budget": 121357321
+    },
+    {
+      "content_id": "M134",
+      "title": "Virtual Protocol 3",
+      "genre": [
+        "Horror",
+        "Documentary",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 133,
+      "release_year": 2023,
+      "rating": 1.6,
+      "views_count": 78294,
+      "production_budget": 254284149
+    },
+    {
+      "content_id": "M135",
+      "title": "Virtual Protocol",
+      "genre": [
+        "Thriller",
+        "Drama",
+        "Action"
+      ],
+      "duration_minutes": 172,
+      "release_year": 2022,
+      "rating": 2.3,
+      "views_count": 69254,
+      "production_budget": 191946883
+    },
+    {
+      "content_id": "M136",
+      "title": "Binary Kingdom",
+      "genre": [
+        "Romance"
+      ],
+      "duration_minutes": 100,
+      "release_year": 2022,
+      "rating": 2.9,
+      "views_count": 88910,
+      "production_budget": 28422454
+    },
+    {
+      "content_id": "M137",
+      "title": "Database",
+      "genre": [
+        "Drama",
+        "Comedy"
+      ],
+      "duration_minutes": 124,
+      "release_year": 2023,
+      "rating": 3.9,
+      "views_count": 9513,
+      "production_budget": 22921942
+    },
+    {
+      "content_id": "M138",
+      "title": "An Code",
+      "genre": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "duration_minutes": 147,
+      "release_year": 2023,
+      "rating": 1.6,
+      "views_count": 87837,
+      "production_budget": 242376448
+    },
+    {
+      "content_id": "M139",
+      "title": "Last Protocol",
+      "genre": [
+        "Horror"
+      ],
+      "duration_minutes": 129,
+      "release_year": 2022,
+      "rating": 4.7,
+      "views_count": 38614,
+      "production_budget": 236093691
+    },
+    {
+      "content_id": "M140",
+      "title": "Advanced Data 2",
+      "genre": [
+        "Comedy",
+        "Thriller"
+      ],
+      "duration_minutes": 108,
+      "release_year": 2020,
+      "rating": 1.8,
+      "views_count": 45351,
+      "production_budget": 7308564
+    },
+    {
+      "content_id": "M141",
+      "title": "First Code",
+      "genre": [
+        "Animation",
+        "Horror",
+        "Thriller"
+      ],
+      "duration_minutes": 147,
+      "release_year": 2022,
+      "rating": 4.3,
+      "views_count": 89430,
+      "production_budget": 53315034
+    },
+    {
+      "content_id": "M142",
+      "title": "An Tale",
+      "genre": [
+        "Action",
+        "Documentary"
+      ],
+      "duration_minutes": 171,
+      "release_year": 2021,
+      "rating": 1.9,
+      "views_count": 2329,
+      "production_budget": 133696368
+    },
+    {
+      "content_id": "M143",
+      "title": "Neural Tale",
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "duration_minutes": 152,
+      "release_year": 2022,
+      "rating": 2.0,
+      "views_count": 53382,
+      "production_budget": 4910257
+    },
+    {
+      "content_id": "M144",
+      "title": "Digital Code",
+      "genre": [
+        "Romance"
+      ],
+      "duration_minutes": 111,
+      "release_year": 2020,
+      "rating": 1.1,
+      "views_count": 81549,
+      "production_budget": 46568581
+    },
+    {
+      "content_id": "M145",
+      "title": "System",
+      "genre": [
+        "Sci-Fi",
+        "Romance"
+      ],
+      "duration_minutes": 166,
+      "release_year": 2023,
+      "rating": 4.4,
+      "views_count": 184899,
+      "production_budget": 75165152
+    },
+    {
+      "content_id": "M146",
+      "title": "Tale",
+      "genre": [
+        "Horror"
+      ],
+      "duration_minutes": 81,
+      "release_year": 2023,
+      "rating": 2.5,
+      "views_count": 46072,
+      "production_budget": 28743877
+    },
+    {
+      "content_id": "M147",
+      "title": "Network",
+      "genre": [
+        "Romance"
+      ],
+      "duration_minutes": 93,
+      "release_year": 2021,
+      "rating": 1.9,
+      "views_count": 41198,
+      "production_budget": 27059829
+    },
+    {
+      "content_id": "M148",
+      "title": "An Cloud",
+      "genre": [
+        "Action",
+        "Comedy",
+        "Documentary"
+      ],
+      "duration_minutes": 158,
+      "release_year": 2021,
+      "rating": 1.8,
+      "views_count": 9163,
+      "production_budget": 224978395
+    },
+    {
+      "content_id": "M149",
+      "title": "Hidden Empire",
+      "genre": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 119,
+      "release_year": 2021,
+      "rating": 2.4,
+      "views_count": 25809,
+      "production_budget": 104294448
+    },
+    {
+      "content_id": "M150",
+      "title": "Code",
+      "genre": [
+        "Romance"
+      ],
+      "duration_minutes": 122,
+      "release_year": 2023,
+      "rating": 1.1,
+      "views_count": 60502,
+      "production_budget": 20317587
+    },
+    {
+      "content_id": "M151",
+      "title": "Advanced Data",
+      "genre": [
+        "Animation",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "duration_minutes": 147,
+      "release_year": 2020,
+      "rating": 1.4,
+      "views_count": 51058,
+      "production_budget": 296809510
+    },
+    {
+      "content_id": "M152",
+      "title": "The System",
+      "genre": [
+        "Horror",
+        "Action"
+      ],
+      "duration_minutes": 153,
+      "release_year": 2021,
+      "rating": 1.8,
+      "views_count": 83126,
+      "production_budget": 76361170
+    },
+    {
+      "content_id": "M153",
+      "title": "The Signal",
+      "genre": [
+        "Romance"
+      ],
+      "duration_minutes": 179,
+      "release_year": 2020,
+      "rating": 4.3,
+      "views_count": 71076,
+      "production_budget": 61937512
+    },
+    {
+      "content_id": "M154",
+      "title": "Smart Quest",
+      "genre": [
+        "Action",
+        "Romance",
+        "Comedy"
+      ],
+      "duration_minutes": 81,
+      "release_year": 2022,
+      "rating": 2.2,
+      "views_count": 91513,
+      "production_budget": 255057356
+    },
+    {
+      "content_id": "M155",
+      "title": "Protocol 5",
+      "genre": [
+        "Drama",
+        "Documentary"
+      ],
+      "duration_minutes": 116,
+      "release_year": 2022,
+      "rating": 3.5,
+      "views_count": 24458,
+      "production_budget": 29320240
+    },
+    {
+      "content_id": "M156",
+      "title": "Hidden Empire",
+      "genre": [
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 175,
+      "release_year": 2023,
+      "rating": 2.8,
+      "views_count": 138492,
+      "production_budget": 126796962
+    },
+    {
+      "content_id": "M157",
+      "title": "Lost Signal",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "duration_minutes": 102,
+      "release_year": 2021,
+      "rating": 4.4,
+      "views_count": 68452,
+      "production_budget": 82768207
+    },
+    {
+      "content_id": "M158",
+      "title": "Stream",
+      "genre": [
+        "Romance",
+        "Drama",
+        "Documentary"
+      ],
+      "duration_minutes": 172,
+      "release_year": 2022,
+      "rating": 2.1,
+      "views_count": 69760,
+      "production_budget": 10347685
+    },
+    {
+      "content_id": "M159",
+      "title": "Digital Mystery",
+      "genre": [
+        "Documentary",
+        "Animation",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 97,
+      "release_year": 2022,
+      "rating": 2.5,
+      "views_count": 37222,
+      "production_budget": 181419290
+    },
+    {
+      "content_id": "M160",
+      "title": "The Network",
+      "genre": [
+        "Animation",
+        "Comedy",
+        "Horror"
+      ],
+      "duration_minutes": 160,
+      "release_year": 2023,
+      "rating": 2.5,
+      "views_count": 143754,
+      "production_budget": 32197439
+    },
+    {
+      "content_id": "M161",
+      "title": "Binary Algorithm",
+      "genre": [
+        "Comedy"
+      ],
+      "duration_minutes": 105,
+      "release_year": 2020,
+      "rating": 2.9,
+      "views_count": 98457,
+      "production_budget": 35306105
+    },
+    {
+      "content_id": "M162",
+      "title": "Virtual Protocol 2",
+      "genre": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 116,
+      "release_year": 2021,
+      "rating": 4.4,
+      "views_count": 28568,
+      "production_budget": 120658510
+    },
+    {
+      "content_id": "M163",
+      "title": "Infinite Adventure",
+      "genre": [
+        "Drama",
+        "Horror"
+      ],
+      "duration_minutes": 84,
+      "release_year": 2024,
+      "rating": 3.2,
+      "views_count": 84447,
+      "production_budget": 34444459
+    },
+    {
+      "content_id": "M164",
+      "title": "Tale 4",
+      "genre": [
+        "Thriller",
+        "Romance"
+      ],
+      "duration_minutes": 137,
+      "release_year": 2022,
+      "rating": 3.7,
+      "views_count": 73278,
+      "production_budget": 46746241
+    },
+    {
+      "content_id": "M165",
+      "title": "Last Network",
+      "genre": [
+        "Comedy",
+        "Documentary",
+        "Thriller"
+      ],
+      "duration_minutes": 153,
+      "release_year": 2020,
+      "rating": 1.8,
+      "views_count": 72562,
+      "production_budget": 12128676
+    },
+    {
+      "content_id": "M166",
+      "title": "Neural Story",
+      "genre": [
+        "Drama"
+      ],
+      "duration_minutes": 155,
+      "release_year": 2024,
+      "rating": 3.1,
+      "views_count": 42192,
+      "production_budget": 38889369
+    },
+    {
+      "content_id": "M167",
+      "title": "Advanced Cloud",
+      "genre": [
+        "Comedy",
+        "Action"
+      ],
+      "duration_minutes": 142,
+      "release_year": 2024,
+      "rating": 4.0,
+      "views_count": 11439,
+      "production_budget": 224823877
+    },
+    {
+      "content_id": "M168",
+      "title": "Final Cloud",
+      "genre": [
+        "Romance",
+        "Horror"
+      ],
+      "duration_minutes": 140,
+      "release_year": 2024,
+      "rating": 2.6,
+      "views_count": 64578,
+      "production_budget": 40925209
+    },
+    {
+      "content_id": "M169",
+      "title": "Final Code",
+      "genre": [
+        "Sci-Fi",
+        "Thriller",
+        "Animation"
+      ],
+      "duration_minutes": 157,
+      "release_year": 2021,
+      "rating": 1.2,
+      "views_count": 1988,
+      "production_budget": 72369601
+    },
+    {
+      "content_id": "M170",
+      "title": "Neural Story",
+      "genre": [
+        "Thriller",
+        "Action"
+      ],
+      "duration_minutes": 125,
+      "release_year": 2023,
+      "rating": 1.7,
+      "views_count": 70180,
+      "production_budget": 189280736
+    },
+    {
+      "content_id": "M171",
+      "title": "Lost Empire",
+      "genre": [
+        "Action",
+        "Romance"
+      ],
+      "duration_minutes": 146,
+      "release_year": 2023,
+      "rating": 2.7,
+      "views_count": 42336,
+      "production_budget": 120092424
+    },
+    {
+      "content_id": "M172",
+      "title": "Signal",
+      "genre": [
+        "Sci-Fi",
+        "Documentary",
+        "Action"
+      ],
+      "duration_minutes": 141,
+      "release_year": 2023,
+      "rating": 2.3,
+      "views_count": 66432,
+      "production_budget": 93882546
+    },
+    {
+      "content_id": "M173",
+      "title": "Tale 3",
+      "genre": [
+        "Documentary",
+        "Animation",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 164,
+      "release_year": 2023,
+      "rating": 1.6,
+      "views_count": 66481,
+      "production_budget": 126147515
+    },
+    {
+      "content_id": "M174",
+      "title": "Lost System",
+      "genre": [
+        "Horror",
+        "Animation",
+        "Action"
+      ],
+      "duration_minutes": 81,
+      "release_year": 2022,
+      "rating": 3.9,
+      "views_count": 35385,
+      "production_budget": 278366263
+    },
+    {
+      "content_id": "M175",
+      "title": "Infinite Cloud",
+      "genre": [
+        "Thriller",
+        "Drama",
+        "Horror"
+      ],
+      "duration_minutes": 138,
+      "release_year": 2021,
+      "rating": 4.0,
+      "views_count": 61891,
+      "production_budget": 11313895
+    },
+    {
+      "content_id": "M176",
+      "title": "Secret Data",
+      "genre": [
+        "Comedy",
+        "Animation",
+        "Drama"
+      ],
+      "duration_minutes": 163,
+      "release_year": 2020,
+      "rating": 4.3,
+      "views_count": 130262,
+      "production_budget": 262601670
+    },
+    {
+      "content_id": "M177",
+      "title": "Advanced Network",
+      "genre": [
+        "Sci-Fi"
+      ],
+      "duration_minutes": 167,
+      "release_year": 2020,
+      "rating": 2.0,
+      "views_count": 60937,
+      "production_budget": 226736717
+    },
+    {
+      "content_id": "M178",
+      "title": "The Network",
+      "genre": [
+        "Action"
+      ],
+      "duration_minutes": 169,
+      "release_year": 2021,
+      "rating": 4.2,
+      "views_count": 74876,
+      "production_budget": 115155790
+    },
+    {
+      "content_id": "M179",
+      "title": "Virtual Tale",
+      "genre": [
+        "Documentary",
+        "Animation",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 175,
+      "release_year": 2023,
+      "rating": 3.7,
+      "views_count": 12907,
+      "production_budget": 108238184
+    },
+    {
+      "content_id": "M180",
+      "title": "Advanced Data",
+      "genre": [
+        "Romance"
+      ],
+      "duration_minutes": 165,
+      "release_year": 2022,
+      "rating": 2.5,
+      "views_count": 98020,
+      "production_budget": 20626435
+    },
+    {
+      "content_id": "M181",
+      "title": "Ultimate World",
+      "genre": [
+        "Animation",
+        "Drama"
+      ],
+      "duration_minutes": 126,
+      "release_year": 2023,
+      "rating": 1.6,
+      "views_count": 12774,
+      "production_budget": 46411246
+    },
+    {
+      "content_id": "M182",
+      "title": "Cyber Story",
+      "genre": [
+        "Sci-Fi",
+        "Documentary"
+      ],
+      "duration_minutes": 180,
+      "release_year": 2021,
+      "rating": 4.7,
+      "views_count": 111104,
+      "production_budget": 190865120
+    },
+    {
+      "content_id": "M183",
+      "title": "Network",
+      "genre": [
+        "Horror",
+        "Comedy"
+      ],
+      "duration_minutes": 87,
+      "release_year": 2023,
+      "rating": 2.7,
+      "views_count": 145621,
+      "production_budget": 4322854
+    },
+    {
+      "content_id": "M184",
+      "title": "A Database",
+      "genre": [
+        "Animation",
+        "Drama"
+      ],
+      "duration_minutes": 84,
+      "release_year": 2020,
+      "rating": 2.1,
+      "views_count": 17079,
+      "production_budget": 15029206
+    },
+    {
+      "content_id": "M185",
+      "title": "Neural Journey 3",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "duration_minutes": 146,
+      "release_year": 2021,
+      "rating": 3.5,
+      "views_count": 19391,
+      "production_budget": 18997108
+    },
+    {
+      "content_id": "M186",
+      "title": "The Algorithm",
+      "genre": [
+        "Drama",
+        "Animation",
+        "Romance"
+      ],
+      "duration_minutes": 154,
+      "release_year": 2022,
+      "rating": 1.4,
+      "views_count": 46579,
+      "production_budget": 19753636
+    },
+    {
+      "content_id": "M187",
+      "title": "Virtual Code",
+      "genre": [
+        "Horror",
+        "Animation"
+      ],
+      "duration_minutes": 156,
+      "release_year": 2024,
+      "rating": 1.4,
+      "views_count": 126127,
+      "production_budget": 41427116
+    },
+    {
+      "content_id": "M188",
+      "title": "The Mystery",
+      "genre": [
+        "Sci-Fi",
+        "Documentary",
+        "Animation"
+      ],
+      "duration_minutes": 114,
+      "release_year": 2023,
+      "rating": 3.2,
+      "views_count": 66256,
+      "production_budget": 63511442
+    },
+    {
+      "content_id": "M189",
+      "title": "Final Protocol",
+      "genre": [
+        "Horror",
+        "Documentary",
+        "Drama"
+      ],
+      "duration_minutes": 89,
+      "release_year": 2023,
+      "rating": 2.1,
+      "views_count": 106363,
+      "production_budget": 39609619
+    },
+    {
+      "content_id": "M190",
+      "title": "Lost Empire",
+      "genre": [
+        "Horror"
+      ],
+      "duration_minutes": 118,
+      "release_year": 2022,
+      "rating": 4.3,
+      "views_count": 147992,
+      "production_budget": 59509863
+    },
+    {
+      "content_id": "M191",
+      "title": "Advanced Empire",
+      "genre": [
+        "Animation",
+        "Documentary",
+        "Action"
+      ],
+      "duration_minutes": 138,
+      "release_year": 2024,
+      "rating": 4.3,
+      "views_count": 197241,
+      "production_budget": 227239256
+    },
+    {
+      "content_id": "M192",
+      "title": "Advanced Database",
+      "genre": [
+        "Documentary",
+        "Horror",
+        "Comedy"
+      ],
+      "duration_minutes": 141,
+      "release_year": 2022,
+      "rating": 3.9,
+      "views_count": 18406,
+      "production_budget": 13502962
+    },
+    {
+      "content_id": "M193",
+      "title": "An Kingdom",
+      "genre": [
+        "Documentary",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 90,
+      "release_year": 2023,
+      "rating": 2.4,
+      "views_count": 138306,
+      "production_budget": 197743810
+    },
+    {
+      "content_id": "M194",
+      "title": "Final Quest",
+      "genre": [
+        "Action",
+        "Animation",
+        "Comedy"
+      ],
+      "duration_minutes": 105,
+      "release_year": 2020,
+      "rating": 3.6,
+      "views_count": 18416,
+      "production_budget": 241573272
+    },
+    {
+      "content_id": "M195",
+      "title": "Lost Protocol",
+      "genre": [
+        "Documentary",
+        "Drama"
+      ],
+      "duration_minutes": 101,
+      "release_year": 2024,
+      "rating": 3.7,
+      "views_count": 141933,
+      "production_budget": 14354168
+    },
+    {
+      "content_id": "M196",
+      "title": "Journey",
+      "genre": [
+        "Action"
+      ],
+      "duration_minutes": 101,
+      "release_year": 2022,
+      "rating": 1.7,
+      "views_count": 38719,
+      "production_budget": 218028074
+    },
+    {
+      "content_id": "M197",
+      "title": "Stream",
+      "genre": [
+        "Action"
+      ],
+      "duration_minutes": 157,
+      "release_year": 2020,
+      "rating": 2.2,
+      "views_count": 85556,
+      "production_budget": 68878404
+    },
+    {
+      "content_id": "M198",
+      "title": "A Algorithm",
+      "genre": [
+        "Drama"
+      ],
+      "duration_minutes": 97,
+      "release_year": 2022,
+      "rating": 1.2,
+      "views_count": 50148,
+      "production_budget": 35458430
+    },
+    {
+      "content_id": "M199",
+      "title": "An Quest",
+      "genre": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "duration_minutes": 175,
+      "release_year": 2024,
+      "rating": 2.0,
+      "views_count": 26557,
+      "production_budget": 175499046
+    },
+    {
+      "content_id": "M200",
+      "title": "Digital World",
+      "genre": [
+        "Comedy",
+        "Romance"
+      ],
+      "duration_minutes": 122,
+      "release_year": 2022,
+      "rating": 3.7,
+      "views_count": 34686,
+      "production_budget": 25039601
+    }
+  ],
+  "series": [
+    {
+      "content_id": "S001",
+      "title": "The Investigators",
+      "genre": [
+        "Crime"
+      ],
+      "seasons": 7,
+      "episodes_per_season": [
+        8,
+        14,
+        7,
+        17,
+        12,
+        13,
+        18
+      ],
+      "avg_episode_duration": 50,
+      "rating": 1.3,
+      "total_views": 50315,
+      "production_budget": 44041273
+    },
+    {
+      "content_id": "S002",
+      "title": "The Investigators",
+      "genre": [
+        "Sci-Fi"
+      ],
+      "seasons": 7,
+      "episodes_per_season": [
+        16,
+        12,
+        14,
+        14,
+        23,
+        9,
+        24
+      ],
+      "avg_episode_duration": 20,
+      "rating": 4.4,
+      "total_views": 351932,
+      "production_budget": 126866932
+    },
+    {
+      "content_id": "S003",
+      "title": "System Archives",
+      "genre": [
+        "Documentary"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        9,
+        7,
+        21,
+        14
+      ],
+      "avg_episode_duration": 44,
+      "rating": 2.8,
+      "total_views": 78137,
+      "production_budget": 56625408
+    },
+    {
+      "content_id": "S004",
+      "title": "Cyber Archives",
+      "genre": [
+        "Comedy",
+        "Romance"
+      ],
+      "seasons": 2,
+      "episodes_per_season": [
+        8,
+        6
+      ],
+      "avg_episode_duration": 58,
+      "rating": 2.2,
+      "total_views": 58071,
+      "production_budget": 47182636
+    },
+    {
+      "content_id": "S005",
+      "title": "The Scientists",
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        22,
+        14,
+        6,
+        14,
+        9
+      ],
+      "avg_episode_duration": 29,
+      "rating": 4.4,
+      "total_views": 76998,
+      "production_budget": 327965922
+    },
+    {
+      "content_id": "S006",
+      "title": "The Scientists",
+      "genre": [
+        "Reality",
+        "Crime"
+      ],
+      "seasons": 8,
+      "episodes_per_season": [
+        10,
+        19,
+        7,
+        12,
+        21,
+        6,
+        10,
+        9
+      ],
+      "avg_episode_duration": 30,
+      "rating": 1.5,
+      "total_views": 34209,
+      "production_budget": 10288145
+    },
+    {
+      "content_id": "S007",
+      "title": "The Analysts",
+      "genre": [
+        "Documentary"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        16,
+        9,
+        14,
+        12
+      ],
+      "avg_episode_duration": 58,
+      "rating": 1.2,
+      "total_views": 63328,
+      "production_budget": 58423635
+    },
+    {
+      "content_id": "S008",
+      "title": "Intelligence Cases",
+      "genre": [
+        "Reality",
+        "Sci-Fi"
+      ],
+      "seasons": 3,
+      "episodes_per_season": [
+        21,
+        6,
+        7
+      ],
+      "avg_episode_duration": 28,
+      "rating": 3.8,
+      "total_views": 172536,
+      "production_budget": 65923441
+    },
+    {
+      "content_id": "S009",
+      "title": "The Investigators",
+      "genre": [
+        "Action"
+      ],
+      "seasons": 2,
+      "episodes_per_season": [
+        12,
+        23
+      ],
+      "avg_episode_duration": 38,
+      "rating": 3.4,
+      "total_views": 176621,
+      "production_budget": 25451448
+    },
+    {
+      "content_id": "S010",
+      "title": "The Detectives",
+      "genre": [
+        "Romance",
+        "Sci-Fi"
+      ],
+      "seasons": 6,
+      "episodes_per_season": [
+        11,
+        7,
+        21,
+        24,
+        15,
+        7
+      ],
+      "avg_episode_duration": 51,
+      "rating": 2.2,
+      "total_views": 137965,
+      "production_budget": 30273595
+    },
+    {
+      "content_id": "S011",
+      "title": "Tech Cases",
+      "genre": [
+        "Crime",
+        "Sci-Fi"
+      ],
+      "seasons": 1,
+      "episodes_per_season": [
+        17
+      ],
+      "avg_episode_duration": 39,
+      "rating": 4.9,
+      "total_views": 290490,
+      "production_budget": 114902788
+    },
+    {
+      "content_id": "S012",
+      "title": "Code Engineer Files",
+      "genre": [
+        "Sci-Fi"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        7,
+        10,
+        18,
+        19,
+        13
+      ],
+      "avg_episode_duration": 34,
+      "rating": 4.1,
+      "total_views": 170988,
+      "production_budget": 208347149
+    },
+    {
+      "content_id": "S013",
+      "title": "The Analysts",
+      "genre": [
+        "Documentary"
+      ],
+      "seasons": 8,
+      "episodes_per_season": [
+        11,
+        21,
+        24,
+        14,
+        19,
+        15,
+        19,
+        10
+      ],
+      "avg_episode_duration": 52,
+      "rating": 3.2,
+      "total_views": 107304,
+      "production_budget": 77414168
+    },
+    {
+      "content_id": "S014",
+      "title": "System Master Records",
+      "genre": [
+        "Romance",
+        "Drama"
+      ],
+      "seasons": 8,
+      "episodes_per_season": [
+        24,
+        21,
+        23,
+        21,
+        7,
+        10,
+        22,
+        12
+      ],
+      "avg_episode_duration": 60,
+      "rating": 1.7,
+      "total_views": 120686,
+      "production_budget": 396719513
+    },
+    {
+      "content_id": "S015",
+      "title": "System Analyst Logs",
+      "genre": [
+        "Documentary"
+      ],
+      "seasons": 8,
+      "episodes_per_season": [
+        10,
+        10,
+        12,
+        12,
+        16,
+        8,
+        9,
+        22
+      ],
+      "avg_episode_duration": 30,
+      "rating": 1.7,
+      "total_views": 173243,
+      "production_budget": 86131629
+    },
+    {
+      "content_id": "S016",
+      "title": "The Investigators",
+      "genre": [
+        "Action"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        23,
+        7,
+        18,
+        7
+      ],
+      "avg_episode_duration": 55,
+      "rating": 2.1,
+      "total_views": 134389,
+      "production_budget": 68265098
+    },
+    {
+      "content_id": "S017",
+      "title": "Data Expert Chronicles",
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "seasons": 7,
+      "episodes_per_season": [
+        9,
+        15,
+        11,
+        24,
+        18,
+        17,
+        19
+      ],
+      "avg_episode_duration": 38,
+      "rating": 2.4,
+      "total_views": 12444,
+      "production_budget": 137756173
+    },
+    {
+      "content_id": "S018",
+      "title": "Code Files",
+      "genre": [
+        "Action",
+        "Comedy"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        8,
+        19,
+        19,
+        21,
+        21
+      ],
+      "avg_episode_duration": 37,
+      "rating": 1.5,
+      "total_views": 157045,
+      "production_budget": 19314996
+    },
+    {
+      "content_id": "S019",
+      "title": "Analytics Archives",
+      "genre": [
+        "Romance",
+        "Drama"
+      ],
+      "seasons": 6,
+      "episodes_per_season": [
+        15,
+        14,
+        11,
+        12,
+        11,
+        22
+      ],
+      "avg_episode_duration": 40,
+      "rating": 2.2,
+      "total_views": 188719,
+      "production_budget": 456731471
+    },
+    {
+      "content_id": "S020",
+      "title": "The Analysts",
+      "genre": [
+        "Romance",
+        "Crime"
+      ],
+      "seasons": 6,
+      "episodes_per_season": [
+        7,
+        13,
+        13,
+        16,
+        16,
+        23
+      ],
+      "avg_episode_duration": 36,
+      "rating": 2.2,
+      "total_views": 66964,
+      "production_budget": 30466126
+    },
+    {
+      "content_id": "S021",
+      "title": "The Specialists",
+      "genre": [
+        "Crime"
+      ],
+      "seasons": 8,
+      "episodes_per_season": [
+        20,
+        17,
+        14,
+        17,
+        12,
+        22,
+        17,
+        10
+      ],
+      "avg_episode_duration": 45,
+      "rating": 3.0,
+      "total_views": 33356,
+      "production_budget": 98820528
+    },
+    {
+      "content_id": "S022",
+      "title": "The Investigators",
+      "genre": [
+        "Reality",
+        "Drama"
+      ],
+      "seasons": 8,
+      "episodes_per_season": [
+        13,
+        21,
+        7,
+        23,
+        9,
+        11,
+        11,
+        8
+      ],
+      "avg_episode_duration": 37,
+      "rating": 2.1,
+      "total_views": 61463,
+      "production_budget": 197105748
+    },
+    {
+      "content_id": "S023",
+      "title": "The Engineers",
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "seasons": 1,
+      "episodes_per_season": [
+        14
+      ],
+      "avg_episode_duration": 41,
+      "rating": 2.6,
+      "total_views": 47152,
+      "production_budget": 37455594
+    },
+    {
+      "content_id": "S024",
+      "title": "The Detectives",
+      "genre": [
+        "Crime"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        20,
+        21,
+        17,
+        23
+      ],
+      "avg_episode_duration": 48,
+      "rating": 1.3,
+      "total_views": 88924,
+      "production_budget": 79333132
+    },
+    {
+      "content_id": "S025",
+      "title": "Digital Master Files",
+      "genre": [
+        "Documentary"
+      ],
+      "seasons": 6,
+      "episodes_per_season": [
+        20,
+        15,
+        19,
+        24,
+        12,
+        20
+      ],
+      "avg_episode_duration": 36,
+      "rating": 3.7,
+      "total_views": 181783,
+      "production_budget": 65631668
+    },
+    {
+      "content_id": "S026",
+      "title": "Analytics Chronicles",
+      "genre": [
+        "Comedy"
+      ],
+      "seasons": 6,
+      "episodes_per_season": [
+        13,
+        10,
+        18,
+        7,
+        14,
+        12
+      ],
+      "avg_episode_duration": 59,
+      "rating": 3.9,
+      "total_views": 159023,
+      "production_budget": 85960997
+    },
+    {
+      "content_id": "S027",
+      "title": "The Specialists",
+      "genre": [
+        "Reality",
+        "Romance"
+      ],
+      "seasons": 8,
+      "episodes_per_season": [
+        9,
+        22,
+        14,
+        22,
+        22,
+        16,
+        23,
+        9
+      ],
+      "avg_episode_duration": 50,
+      "rating": 3.6,
+      "total_views": 124627,
+      "production_budget": 17641045
+    },
+    {
+      "content_id": "S028",
+      "title": "The Experts",
+      "genre": [
+        "Crime"
+      ],
+      "seasons": 7,
+      "episodes_per_season": [
+        15,
+        11,
+        21,
+        9,
+        22,
+        10,
+        11
+      ],
+      "avg_episode_duration": 45,
+      "rating": 1.6,
+      "total_views": 111067,
+      "production_budget": 15293760
+    },
+    {
+      "content_id": "S029",
+      "title": "Digital Diaries",
+      "genre": [
+        "Documentary"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        21,
+        16,
+        23,
+        12
+      ],
+      "avg_episode_duration": 42,
+      "rating": 1.8,
+      "total_views": 81277,
+      "production_budget": 68389735
+    },
+    {
+      "content_id": "S030",
+      "title": "The Scientists",
+      "genre": [
+        "Romance",
+        "Documentary"
+      ],
+      "seasons": 6,
+      "episodes_per_season": [
+        21,
+        6,
+        6,
+        13,
+        20,
+        7
+      ],
+      "avg_episode_duration": 58,
+      "rating": 4.5,
+      "total_views": 268280,
+      "production_budget": 400393000
+    },
+    {
+      "content_id": "S031",
+      "title": "The Analysts",
+      "genre": [
+        "Crime"
+      ],
+      "seasons": 1,
+      "episodes_per_season": [
+        23
+      ],
+      "avg_episode_duration": 59,
+      "rating": 4.2,
+      "total_views": 328774,
+      "production_budget": 415835464
+    },
+    {
+      "content_id": "S032",
+      "title": "Tech Reports",
+      "genre": [
+        "Sci-Fi",
+        "Reality"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        12,
+        14,
+        17,
+        13,
+        19
+      ],
+      "avg_episode_duration": 37,
+      "rating": 1.7,
+      "total_views": 53516,
+      "production_budget": 95839378
+    },
+    {
+      "content_id": "S033",
+      "title": "The Experts",
+      "genre": [
+        "Crime",
+        "Romance"
+      ],
+      "seasons": 7,
+      "episodes_per_season": [
+        7,
+        11,
+        6,
+        8,
+        15,
+        20,
+        10
+      ],
+      "avg_episode_duration": 28,
+      "rating": 3.0,
+      "total_views": 186235,
+      "production_budget": 19617530
+    },
+    {
+      "content_id": "S034",
+      "title": "Tech Master Records",
+      "genre": [
+        "Drama"
+      ],
+      "seasons": 1,
+      "episodes_per_season": [
+        11
+      ],
+      "avg_episode_duration": 27,
+      "rating": 4.2,
+      "total_views": 250364,
+      "production_budget": 210303817
+    },
+    {
+      "content_id": "S035",
+      "title": "Cloud Chronicles",
+      "genre": [
+        "Action"
+      ],
+      "seasons": 8,
+      "episodes_per_season": [
+        11,
+        12,
+        7,
+        13,
+        7,
+        14,
+        9,
+        6
+      ],
+      "avg_episode_duration": 49,
+      "rating": 1.5,
+      "total_views": 24212,
+      "production_budget": 32588164
+    },
+    {
+      "content_id": "S036",
+      "title": "Intelligence Logs",
+      "genre": [
+        "Comedy"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        24,
+        24,
+        7,
+        8
+      ],
+      "avg_episode_duration": 35,
+      "rating": 2.2,
+      "total_views": 122031,
+      "production_budget": 36342177
+    },
+    {
+      "content_id": "S037",
+      "title": "The Experts",
+      "genre": [
+        "Reality"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        20,
+        8,
+        15,
+        24,
+        7
+      ],
+      "avg_episode_duration": 39,
+      "rating": 1.3,
+      "total_views": 177234,
+      "production_budget": 6067543
+    },
+    {
+      "content_id": "S038",
+      "title": "The Masters",
+      "genre": [
+        "Action"
+      ],
+      "seasons": 3,
+      "episodes_per_season": [
+        22,
+        13,
+        13
+      ],
+      "avg_episode_duration": 52,
+      "rating": 4.3,
+      "total_views": 91190,
+      "production_budget": 228468542
+    },
+    {
+      "content_id": "S039",
+      "title": "The Experts",
+      "genre": [
+        "Comedy",
+        "Action"
+      ],
+      "seasons": 3,
+      "episodes_per_season": [
+        9,
+        19,
+        20
+      ],
+      "avg_episode_duration": 52,
+      "rating": 3.2,
+      "total_views": 186734,
+      "production_budget": 55906418
+    },
+    {
+      "content_id": "S040",
+      "title": "Cyber Archives",
+      "genre": [
+        "Drama",
+        "Action"
+      ],
+      "seasons": 1,
+      "episodes_per_season": [
+        15
+      ],
+      "avg_episode_duration": 34,
+      "rating": 4.4,
+      "total_views": 269484,
+      "production_budget": 467178636
+    },
+    {
+      "content_id": "S041",
+      "title": "The Analysts",
+      "genre": [
+        "Action",
+        "Romance"
+      ],
+      "seasons": 7,
+      "episodes_per_season": [
+        16,
+        11,
+        6,
+        15,
+        14,
+        22,
+        9
+      ],
+      "avg_episode_duration": 34,
+      "rating": 2.0,
+      "total_views": 193868,
+      "production_budget": 8921678
+    },
+    {
+      "content_id": "S042",
+      "title": "The Analysts",
+      "genre": [
+        "Action"
+      ],
+      "seasons": 3,
+      "episodes_per_season": [
+        10,
+        8,
+        18
+      ],
+      "avg_episode_duration": 51,
+      "rating": 4.9,
+      "total_views": 364998,
+      "production_budget": 470357872
+    },
+    {
+      "content_id": "S043",
+      "title": "The Specialists",
+      "genre": [
+        "Drama",
+        "Reality"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        8,
+        21,
+        23,
+        14,
+        11
+      ],
+      "avg_episode_duration": 35,
+      "rating": 1.4,
+      "total_views": 36502,
+      "production_budget": 352436532
+    },
+    {
+      "content_id": "S044",
+      "title": "Cloud Reports",
+      "genre": [
+        "Comedy"
+      ],
+      "seasons": 1,
+      "episodes_per_season": [
+        13
+      ],
+      "avg_episode_duration": 46,
+      "rating": 3.4,
+      "total_views": 152609,
+      "production_budget": 78560006
+    },
+    {
+      "content_id": "S045",
+      "title": "The Scientists",
+      "genre": [
+        "Crime"
+      ],
+      "seasons": 3,
+      "episodes_per_season": [
+        20,
+        13,
+        24
+      ],
+      "avg_episode_duration": 24,
+      "rating": 2.7,
+      "total_views": 55899,
+      "production_budget": 57056031
+    },
+    {
+      "content_id": "S046",
+      "title": "Code Archives",
+      "genre": [
+        "Sci-Fi",
+        "Drama"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        17,
+        7,
+        11,
+        7,
+        20
+      ],
+      "avg_episode_duration": 21,
+      "rating": 2.2,
+      "total_views": 46760,
+      "production_budget": 292316186
+    },
+    {
+      "content_id": "S047",
+      "title": "Intelligence Stories",
+      "genre": [
+        "Comedy",
+        "Reality"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        11,
+        24,
+        7,
+        15,
+        13
+      ],
+      "avg_episode_duration": 58,
+      "rating": 2.6,
+      "total_views": 96207,
+      "production_budget": 37685089
+    },
+    {
+      "content_id": "S048",
+      "title": "The Experts",
+      "genre": [
+        "Comedy",
+        "Documentary"
+      ],
+      "seasons": 8,
+      "episodes_per_season": [
+        24,
+        21,
+        7,
+        24,
+        11,
+        11,
+        17,
+        9
+      ],
+      "avg_episode_duration": 29,
+      "rating": 1.5,
+      "total_views": 78818,
+      "production_budget": 30228151
+    },
+    {
+      "content_id": "S049",
+      "title": "Cyber Archives",
+      "genre": [
+        "Reality"
+      ],
+      "seasons": 1,
+      "episodes_per_season": [
+        18
+      ],
+      "avg_episode_duration": 37,
+      "rating": 3.1,
+      "total_views": 84555,
+      "production_budget": 58765760
+    },
+    {
+      "content_id": "S050",
+      "title": "The Experts",
+      "genre": [
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "seasons": 2,
+      "episodes_per_season": [
+        14,
+        15
+      ],
+      "avg_episode_duration": 39,
+      "rating": 4.6,
+      "total_views": 111070,
+      "production_budget": 291245363
+    },
+    {
+      "content_id": "S051",
+      "title": "Cyber Diaries",
+      "genre": [
+        "Action"
+      ],
+      "seasons": 1,
+      "episodes_per_season": [
+        24
+      ],
+      "avg_episode_duration": 23,
+      "rating": 4.3,
+      "total_views": 68702,
+      "production_budget": 368102832
+    },
+    {
+      "content_id": "S052",
+      "title": "Intelligence Engineer Records",
+      "genre": [
+        "Action",
+        "Crime"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        17,
+        10,
+        19,
+        11
+      ],
+      "avg_episode_duration": 55,
+      "rating": 1.2,
+      "total_views": 101497,
+      "production_budget": 60906031
+    },
+    {
+      "content_id": "S053",
+      "title": "Analytics Archives",
+      "genre": [
+        "Sci-Fi"
+      ],
+      "seasons": 3,
+      "episodes_per_season": [
+        6,
+        14,
+        19
+      ],
+      "avg_episode_duration": 43,
+      "rating": 2.2,
+      "total_views": 49311,
+      "production_budget": 41543684
+    },
+    {
+      "content_id": "S054",
+      "title": "Intelligence Chronicles",
+      "genre": [
+        "Romance",
+        "Action"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        16,
+        10,
+        11,
+        24
+      ],
+      "avg_episode_duration": 55,
+      "rating": 2.0,
+      "total_views": 99736,
+      "production_budget": 14694325
+    },
+    {
+      "content_id": "S055",
+      "title": "The Scientists",
+      "genre": [
+        "Crime"
+      ],
+      "seasons": 2,
+      "episodes_per_season": [
+        15,
+        18
+      ],
+      "avg_episode_duration": 59,
+      "rating": 1.5,
+      "total_views": 139418,
+      "production_budget": 28230331
+    },
+    {
+      "content_id": "S056",
+      "title": "The Scientists",
+      "genre": [
+        "Crime"
+      ],
+      "seasons": 7,
+      "episodes_per_season": [
+        24,
+        13,
+        13,
+        15,
+        18,
+        15,
+        10
+      ],
+      "avg_episode_duration": 59,
+      "rating": 1.0,
+      "total_views": 173098,
+      "production_budget": 93373094
+    },
+    {
+      "content_id": "S057",
+      "title": "Cyber Chronicles",
+      "genre": [
+        "Documentary",
+        "Comedy"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        17,
+        11,
+        13,
+        9,
+        23
+      ],
+      "avg_episode_duration": 23,
+      "rating": 4.1,
+      "total_views": 241304,
+      "production_budget": 499744453
+    },
+    {
+      "content_id": "S058",
+      "title": "Data Logs",
+      "genre": [
+        "Comedy",
+        "Romance"
+      ],
+      "seasons": 6,
+      "episodes_per_season": [
+        11,
+        7,
+        20,
+        10,
+        13,
+        18
+      ],
+      "avg_episode_duration": 57,
+      "rating": 1.2,
+      "total_views": 99661,
+      "production_budget": 66154832
+    },
+    {
+      "content_id": "S059",
+      "title": "The Scientists",
+      "genre": [
+        "Documentary"
+      ],
+      "seasons": 2,
+      "episodes_per_season": [
+        6,
+        20
+      ],
+      "avg_episode_duration": 27,
+      "rating": 5.0,
+      "total_views": 27954,
+      "production_budget": 280522409
+    },
+    {
+      "content_id": "S060",
+      "title": "The Detectives",
+      "genre": [
+        "Drama"
+      ],
+      "seasons": 7,
+      "episodes_per_season": [
+        14,
+        16,
+        10,
+        21,
+        19,
+        8,
+        7
+      ],
+      "avg_episode_duration": 41,
+      "rating": 3.1,
+      "total_views": 11044,
+      "production_budget": 143304276
+    },
+    {
+      "content_id": "S061",
+      "title": "Tech Master Files",
+      "genre": [
+        "Documentary"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        20,
+        10,
+        19,
+        16,
+        15
+      ],
+      "avg_episode_duration": 50,
+      "rating": 2.9,
+      "total_views": 17393,
+      "production_budget": 99027997
+    },
+    {
+      "content_id": "S062",
+      "title": "Digital Chronicles",
+      "genre": [
+        "Documentary",
+        "Drama"
+      ],
+      "seasons": 7,
+      "episodes_per_season": [
+        13,
+        14,
+        6,
+        15,
+        16,
+        14,
+        12
+      ],
+      "avg_episode_duration": 54,
+      "rating": 2.9,
+      "total_views": 157616,
+      "production_budget": 127511414
+    },
+    {
+      "content_id": "S063",
+      "title": "Digital Archives",
+      "genre": [
+        "Drama",
+        "Comedy"
+      ],
+      "seasons": 6,
+      "episodes_per_season": [
+        22,
+        18,
+        21,
+        14,
+        12,
+        11
+      ],
+      "avg_episode_duration": 51,
+      "rating": 4.0,
+      "total_views": 60750,
+      "production_budget": 382523478
+    },
+    {
+      "content_id": "S064",
+      "title": "The Masters",
+      "genre": [
+        "Crime"
+      ],
+      "seasons": 6,
+      "episodes_per_season": [
+        21,
+        24,
+        19,
+        16,
+        13,
+        13
+      ],
+      "avg_episode_duration": 37,
+      "rating": 3.6,
+      "total_views": 25420,
+      "production_budget": 35573482
+    },
+    {
+      "content_id": "S065",
+      "title": "The Detectives",
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "seasons": 3,
+      "episodes_per_season": [
+        23,
+        24,
+        9
+      ],
+      "avg_episode_duration": 44,
+      "rating": 3.0,
+      "total_views": 183444,
+      "production_budget": 278507421
+    },
+    {
+      "content_id": "S066",
+      "title": "The Experts",
+      "genre": [
+        "Reality",
+        "Romance"
+      ],
+      "seasons": 7,
+      "episodes_per_season": [
+        19,
+        19,
+        24,
+        17,
+        18,
+        23,
+        9
+      ],
+      "avg_episode_duration": 35,
+      "rating": 2.9,
+      "total_views": 128430,
+      "production_budget": 63619939
+    },
+    {
+      "content_id": "S067",
+      "title": "System Files",
+      "genre": [
+        "Crime"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        19,
+        8,
+        17,
+        20
+      ],
+      "avg_episode_duration": 60,
+      "rating": 2.4,
+      "total_views": 71070,
+      "production_budget": 73813095
+    },
+    {
+      "content_id": "S068",
+      "title": "Analytics Cases",
+      "genre": [
+        "Sci-Fi"
+      ],
+      "seasons": 8,
+      "episodes_per_season": [
+        18,
+        17,
+        17,
+        12,
+        21,
+        15,
+        23,
+        20
+      ],
+      "avg_episode_duration": 25,
+      "rating": 3.3,
+      "total_views": 63083,
+      "production_budget": 69011874
+    },
+    {
+      "content_id": "S069",
+      "title": "Network Chronicles",
+      "genre": [
+        "Action"
+      ],
+      "seasons": 6,
+      "episodes_per_season": [
+        7,
+        14,
+        7,
+        17,
+        7,
+        7
+      ],
+      "avg_episode_duration": 49,
+      "rating": 4.1,
+      "total_views": 135238,
+      "production_budget": 216309090
+    },
+    {
+      "content_id": "S070",
+      "title": "The Analysts",
+      "genre": [
+        "Action"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        8,
+        9,
+        19,
+        16
+      ],
+      "avg_episode_duration": 55,
+      "rating": 4.0,
+      "total_views": 165360,
+      "production_budget": 18764279
+    },
+    {
+      "content_id": "S071",
+      "title": "Code Logs",
+      "genre": [
+        "Crime"
+      ],
+      "seasons": 3,
+      "episodes_per_season": [
+        18,
+        15,
+        8
+      ],
+      "avg_episode_duration": 37,
+      "rating": 4.7,
+      "total_views": 133808,
+      "production_budget": 299747822
+    },
+    {
+      "content_id": "S072",
+      "title": "The Scientists",
+      "genre": [
+        "Romance"
+      ],
+      "seasons": 2,
+      "episodes_per_season": [
+        20,
+        17
+      ],
+      "avg_episode_duration": 21,
+      "rating": 3.8,
+      "total_views": 110021,
+      "production_budget": 27120174
+    },
+    {
+      "content_id": "S073",
+      "title": "The Engineers",
+      "genre": [
+        "Documentary",
+        "Romance"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        11,
+        21,
+        16,
+        11
+      ],
+      "avg_episode_duration": 50,
+      "rating": 1.6,
+      "total_views": 174261,
+      "production_budget": 55156195
+    },
+    {
+      "content_id": "S074",
+      "title": "The Specialists",
+      "genre": [
+        "Reality",
+        "Crime"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        6,
+        24,
+        8,
+        10
+      ],
+      "avg_episode_duration": 47,
+      "rating": 4.1,
+      "total_views": 233200,
+      "production_budget": 141489146
+    },
+    {
+      "content_id": "S075",
+      "title": "The Investigators",
+      "genre": [
+        "Sci-Fi",
+        "Action"
+      ],
+      "seasons": 8,
+      "episodes_per_season": [
+        11,
+        8,
+        22,
+        11,
+        22,
+        11,
+        9,
+        8
+      ],
+      "avg_episode_duration": 38,
+      "rating": 3.6,
+      "total_views": 111955,
+      "production_budget": 40425131
+    },
+    {
+      "content_id": "S076",
+      "title": "The Analysts",
+      "genre": [
+        "Sci-Fi",
+        "Crime"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        13,
+        12,
+        22,
+        15
+      ],
+      "avg_episode_duration": 49,
+      "rating": 1.9,
+      "total_views": 187502,
+      "production_budget": 87863196
+    },
+    {
+      "content_id": "S077",
+      "title": "Cloud Investigator Reports",
+      "genre": [
+        "Action"
+      ],
+      "seasons": 2,
+      "episodes_per_season": [
+        17,
+        20
+      ],
+      "avg_episode_duration": 23,
+      "rating": 3.3,
+      "total_views": 22208,
+      "production_budget": 22963861
+    },
+    {
+      "content_id": "S078",
+      "title": "Analytics Investigator Cases",
+      "genre": [
+        "Reality"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        6,
+        6,
+        21,
+        18,
+        14
+      ],
+      "avg_episode_duration": 25,
+      "rating": 4.3,
+      "total_views": 317878,
+      "production_budget": 448231718
+    },
+    {
+      "content_id": "S079",
+      "title": "The Engineers",
+      "genre": [
+        "Comedy",
+        "Action"
+      ],
+      "seasons": 3,
+      "episodes_per_season": [
+        6,
+        7,
+        11
+      ],
+      "avg_episode_duration": 46,
+      "rating": 4.0,
+      "total_views": 181689,
+      "production_budget": 30474598
+    },
+    {
+      "content_id": "S080",
+      "title": "The Specialists",
+      "genre": [
+        "Romance"
+      ],
+      "seasons": 6,
+      "episodes_per_season": [
+        7,
+        9,
+        14,
+        8,
+        14,
+        24
+      ],
+      "avg_episode_duration": 34,
+      "rating": 2.5,
+      "total_views": 22026,
+      "production_budget": 18826461
+    },
+    {
+      "content_id": "S081",
+      "title": "The Masters",
+      "genre": [
+        "Sci-Fi"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        22,
+        24,
+        11,
+        15
+      ],
+      "avg_episode_duration": 29,
+      "rating": 1.2,
+      "total_views": 138903,
+      "production_budget": 50151349
+    },
+    {
+      "content_id": "S082",
+      "title": "Data Detective Chronicles",
+      "genre": [
+        "Action",
+        "Comedy"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        17,
+        7,
+        16,
+        16,
+        16
+      ],
+      "avg_episode_duration": 46,
+      "rating": 4.3,
+      "total_views": 289734,
+      "production_budget": 433505371
+    },
+    {
+      "content_id": "S083",
+      "title": "Tech Stories",
+      "genre": [
+        "Comedy",
+        "Reality"
+      ],
+      "seasons": 2,
+      "episodes_per_season": [
+        23,
+        15
+      ],
+      "avg_episode_duration": 53,
+      "rating": 5.0,
+      "total_views": 200566,
+      "production_budget": 383865974
+    },
+    {
+      "content_id": "S084",
+      "title": "Data Logs",
+      "genre": [
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "seasons": 2,
+      "episodes_per_season": [
+        19,
+        13
+      ],
+      "avg_episode_duration": 53,
+      "rating": 1.5,
+      "total_views": 35513,
+      "production_budget": 5130193
+    },
+    {
+      "content_id": "S085",
+      "title": "Network Chronicles",
+      "genre": [
+        "Reality",
+        "Documentary"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        18,
+        24,
+        7,
+        14,
+        14
+      ],
+      "avg_episode_duration": 26,
+      "rating": 4.3,
+      "total_views": 21996,
+      "production_budget": 470703264
+    },
+    {
+      "content_id": "S086",
+      "title": "The Engineers",
+      "genre": [
+        "Reality"
+      ],
+      "seasons": 2,
+      "episodes_per_season": [
+        14,
+        12
+      ],
+      "avg_episode_duration": 57,
+      "rating": 4.8,
+      "total_views": 39316,
+      "production_budget": 410892898
+    },
+    {
+      "content_id": "S087",
+      "title": "Tech Master Reports",
+      "genre": [
+        "Romance",
+        "Drama"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        9,
+        10,
+        7,
+        18
+      ],
+      "avg_episode_duration": 55,
+      "rating": 3.4,
+      "total_views": 177159,
+      "production_budget": 490588000
+    },
+    {
+      "content_id": "S088",
+      "title": "The Masters",
+      "genre": [
+        "Drama"
+      ],
+      "seasons": 8,
+      "episodes_per_season": [
+        20,
+        21,
+        23,
+        8,
+        14,
+        10,
+        16,
+        10
+      ],
+      "avg_episode_duration": 58,
+      "rating": 2.1,
+      "total_views": 154597,
+      "production_budget": 187164054
+    },
+    {
+      "content_id": "S089",
+      "title": "The Detectives",
+      "genre": [
+        "Sci-Fi"
+      ],
+      "seasons": 7,
+      "episodes_per_season": [
+        6,
+        22,
+        6,
+        18,
+        15,
+        10,
+        7
+      ],
+      "avg_episode_duration": 40,
+      "rating": 1.5,
+      "total_views": 151436,
+      "production_budget": 59438147
+    },
+    {
+      "content_id": "S090",
+      "title": "The Engineers",
+      "genre": [
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "seasons": 7,
+      "episodes_per_season": [
+        16,
+        15,
+        13,
+        14,
+        23,
+        9,
+        15
+      ],
+      "avg_episode_duration": 49,
+      "rating": 5.0,
+      "total_views": 347312,
+      "production_budget": 365233645
+    },
+    {
+      "content_id": "S091",
+      "title": "The Analysts",
+      "genre": [
+        "Action",
+        "Reality"
+      ],
+      "seasons": 3,
+      "episodes_per_season": [
+        7,
+        11,
+        6
+      ],
+      "avg_episode_duration": 28,
+      "rating": 1.7,
+      "total_views": 76250,
+      "production_budget": 43450423
+    },
+    {
+      "content_id": "S092",
+      "title": "Digital Specialist Logs",
+      "genre": [
+        "Drama"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        23,
+        18,
+        13,
+        6,
+        22
+      ],
+      "avg_episode_duration": 58,
+      "rating": 3.6,
+      "total_views": 153334,
+      "production_budget": 393217790
+    },
+    {
+      "content_id": "S093",
+      "title": "Tech Chronicles",
+      "genre": [
+        "Romance",
+        "Comedy"
+      ],
+      "seasons": 4,
+      "episodes_per_season": [
+        19,
+        13,
+        9,
+        8
+      ],
+      "avg_episode_duration": 47,
+      "rating": 4.6,
+      "total_views": 278890,
+      "production_budget": 311117522
+    },
+    {
+      "content_id": "S094",
+      "title": "The Experts",
+      "genre": [
+        "Romance",
+        "Crime"
+      ],
+      "seasons": 2,
+      "episodes_per_season": [
+        8,
+        11
+      ],
+      "avg_episode_duration": 45,
+      "rating": 3.7,
+      "total_views": 86610,
+      "production_budget": 31623945
+    },
+    {
+      "content_id": "S095",
+      "title": "The Masters",
+      "genre": [
+        "Crime",
+        "Reality"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        22,
+        21,
+        23,
+        7,
+        23
+      ],
+      "avg_episode_duration": 32,
+      "rating": 1.9,
+      "total_views": 35777,
+      "production_budget": 18661547
+    },
+    {
+      "content_id": "S096",
+      "title": "Intelligence Records",
+      "genre": [
+        "Action",
+        "Romance"
+      ],
+      "seasons": 6,
+      "episodes_per_season": [
+        16,
+        11,
+        21,
+        12,
+        13,
+        13
+      ],
+      "avg_episode_duration": 60,
+      "rating": 2.4,
+      "total_views": 117083,
+      "production_budget": 23847484
+    },
+    {
+      "content_id": "S097",
+      "title": "The Masters",
+      "genre": [
+        "Crime"
+      ],
+      "seasons": 1,
+      "episodes_per_season": [
+        22
+      ],
+      "avg_episode_duration": 40,
+      "rating": 1.6,
+      "total_views": 64260,
+      "production_budget": 40419226
+    },
+    {
+      "content_id": "S098",
+      "title": "Analytics Scientist Diaries",
+      "genre": [
+        "Reality",
+        "Crime"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        8,
+        12,
+        11,
+        23,
+        11
+      ],
+      "avg_episode_duration": 57,
+      "rating": 4.8,
+      "total_views": 96074,
+      "production_budget": 174510618
+    },
+    {
+      "content_id": "S099",
+      "title": "Network Stories",
+      "genre": [
+        "Romance",
+        "Action"
+      ],
+      "seasons": 8,
+      "episodes_per_season": [
+        17,
+        18,
+        19,
+        9,
+        24,
+        12,
+        9,
+        23
+      ],
+      "avg_episode_duration": 39,
+      "rating": 2.7,
+      "total_views": 43588,
+      "production_budget": 22408059
+    },
+    {
+      "content_id": "S100",
+      "title": "Digital Records",
+      "genre": [
+        "Romance",
+        "Action"
+      ],
+      "seasons": 5,
+      "episodes_per_season": [
+        7,
+        11,
+        14,
+        20,
+        20
+      ],
+      "avg_episode_duration": 39,
+      "rating": 1.5,
+      "total_views": 156615,
+      "production_budget": 96348351
+    }
+  ]
+}
