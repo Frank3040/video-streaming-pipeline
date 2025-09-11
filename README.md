@@ -5,7 +5,7 @@
 
 - Francisco Chan: Database Engineer
 - Daniel Cuso: Database Engineer
-- Valeria Paredes: Data Analyst
+- Valeria Ramirez: Data Analyst
 - Rogelio Novelo: Data Analyst
 - Esther Apaza: Data Visualization Specialist
 - Carlos Helguera: Data Visualization Specialist
