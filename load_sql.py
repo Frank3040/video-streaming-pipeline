@@ -39,9 +39,9 @@ def crear_base_datos():
 
         if not existe:
             cur.execute(f"CREATE DATABASE {PG_DB};")
-            print(f"✅ Base de datos '{PG_DB}' creada.")
+            print(f"Base de datos '{PG_DB}' creada.")
         else:
-            print(f"ℹ️ La base de datos '{PG_DB}' ya existe.")
+            print(f"ℹLa base de datos '{PG_DB}' ya existe.")
 
         cur.close()
         conn.close()

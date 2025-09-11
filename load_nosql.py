@@ -89,7 +89,7 @@ def cargar_json_a_mongodb():
     # Insertar películas
     if peliculas:
         resultado = movies_collection.insert_many(peliculas)
-        print(f"✅ Se insertaron {len(resultado.inserted_ids)} películas en MongoDB.")
+        print(f"Se insertaron {len(resultado.inserted_ids)} películas en MongoDB.")
 
         # Crear índices recomendados
         movies_collection.create_index("title")
@@ -99,7 +99,7 @@ def cargar_json_a_mongodb():
     # Insertar series
     if series:
         resultado = series_collection.insert_many(series)
-        print(f"✅ Se insertaron {len(resultado.inserted_ids)} series en MongoDB.")
+        print(f"Se insertaron {len(resultado.inserted_ids)} series en MongoDB.")
 
         # Crear índices recomendados
         series_collection.create_index("title")
@@ -178,7 +178,7 @@ def ejecutar_agregaciones(db):
     
     
     result3 = list(series_collection.aggregate(pipeline3))
-    print("\n📊 Visualizaciones totales y promedio de ellos por genero donde visualizaciones mayores a 100000 y promedio de presupuesto mayor a 40000000 :")
+    print("\nVisualizaciones totales y promedio de ellos por genero donde visualizaciones mayores a 100000 y promedio de presupuesto mayor a 40000000 :")
     for r in result3:
         print(r)
         
@@ -204,11 +204,12 @@ def ejecutar_agregaciones(db):
         }]
 
     result4 = list(series_collection.aggregate(pipeline4))
-    print("\n📊 identificar los contenidos que tienen un número significativo de temporadas (5 o más) y un número total de episodios alto (50 o más)")
+    print("\nidentificar los contenidos que tienen un número significativo de temporadas (5 o más) y un número total de episodios alto (50 o más)")
     for r in result4:
         print(r)
 
 if __name__ == '__main__':
+    
     db = cargar_json_a_mongodb()
     
     ejecutar_agregaciones(db)
